@@ -55,7 +55,7 @@ btnAvancar.addEventListener("click", function () {
 
 btnVoltar.addEventListener("click", function () {
 
-    if(cartaoAtual < 0){
+    if(cartaoAtual < 1){
         return;
     }
 
